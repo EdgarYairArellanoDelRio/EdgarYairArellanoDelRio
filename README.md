@@ -8,7 +8,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me encant
 - 🌱 **Lo que estoy aprendiendo:** Estoy profundizando en Spring Boot, Docker, PostgreSQL, y APIs RESTful.
 - 👯 **Buscando colaborar en:** Proyectos open-source donde pueda contribuir con mis habilidades en Java y aprender de otros desarrolladores.
 - 💬 **Pregúntame sobre:** Java, POO, APIs REST, y mejores prácticas de desarrollo de software.
-- 📫 **Cómo contactarme:** arellanoedgar265@gmail.com | [LinkedIn](in/edgararellanodelrio)
+- 📫 **Cómo contactarme:** arellanoedgar265@gmail.com | [LinkedIn]([in/edgararellanodelrio](https://www.linkedin.com/in/edgararellanodelrio/))
 
 ## Habilidades
 
