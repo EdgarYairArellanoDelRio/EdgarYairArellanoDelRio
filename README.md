@@ -20,7 +20,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me encant
 
 ## Proyectos Destacados
 
-### 🔷 [Ajedrez en Java]()
+### 🔷 [Ajedrez en Java](https://github.com/EdgarYairArellanoDelRio/Ajedrez-en-Consola.git)
 Un proyecto personal donde desarrollé un juego de ajedrez en Java, implementando la lógica completa del juego.
 
 ### 🔶 [Juego del Ahorcado](https://github.com/EdgarYairArellanoDelRio/Ahorcado-game.git)
